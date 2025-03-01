@@ -1,6 +1,6 @@
 # Smart_Virtual_Assistant_Project
 # Overview
-Hey Reader! this is a voice-activated AI assistant capable of executing various tasks, including speech recognition, web searches, opening applications, mathematical calculations, file management, weather updates, joke-telling, YouTube song playback, and text translation
+Hey Reader! This is a voice-activated AI assistant capable of executing various tasks, including speech recognition, web searches, opening applications, mathematical calculations, file management, weather updates, joke-telling, YouTube song playback, and text translation
 # Features
 Speech Recognition: Listens to and processes voice commands
 Time & Date Retrieval: Tells the current time and date
