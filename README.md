@@ -19,10 +19,10 @@ pyautogui – Enables automation of mouse and keyboard actions
 (pip install pyautogui)
 speechrecognition – Provides speech-to-text functionality
 (pip install speechrecognition)
-pyttsx3 – Allows text-to-speech conversion
-(pip install pyttsx3)
 googletrans – Facilitates text translation
 (pip install googletrans==4.0.0-rc1)
+pyttsx3 – Allows text-to-speech conversion
+(pip install pyttsx3)
 requests – Handles HTTP requests for data retrieval
 (pip install requests)
 yt-dlp – Fetches media from YouTube
