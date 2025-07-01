@@ -15,7 +15,7 @@ Web Search: Opens Google search results based on voice input
 # Installation
 Ensure you have Python installed (recommended: Python 3.8 or newer). This project relies on several external libraries to function correctly, including tools for speech processing, automation, text-to-speech conversion, web interactions, and data retrieval. To avoid compatibility issues, it’s recommended to install the required dependencies using the commands below.
 # Required Libraries
-pyautogui – Enables automation of mouse and keyboard actions
+pyautogui – Enables automation of mouse and keyboard actions</br>
 (pip install pyautogui)<br>
 speechrecognition – Provides speech-to-text functionality
 (pip install speechrecognition)<br>
