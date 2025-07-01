@@ -15,17 +15,17 @@ Web Search: Opens Google search results based on voice input
 # Installation
 Ensure you have Python installed (recommended: Python 3.8 or newer). This project relies on several external libraries to function correctly, including tools for speech processing, automation, text-to-speech conversion, web interactions, and data retrieval. To avoid compatibility issues, it’s recommended to install the required dependencies using the commands below.
 # Required Libraries
-pyautogui – Enables automation of mouse and keyboard actions</br>
+pyautogui – Enables automation of mouse and keyboard actions<br>
 (pip install pyautogui)<br>
-speechrecognition – Provides speech-to-text functionality
+speechrecognition – Provides speech-to-text functionality<br>
 (pip install speechrecognition)<br>
-googletrans – Facilitates text translation
+googletrans – Facilitates text translation<br>
 (pip install googletrans==4.0.0-rc1)<br>
-pyttsx3 – Allows text-to-speech conversion
+pyttsx3 – Allows text-to-speech conversion<br>
 (pip install pyttsx3)<br>
-requests – Handles HTTP requests for data retrieval
+requests – Handles HTTP requests for data retrieval<br>
 (pip install requests)<br>
-yt-dlp – Fetches media from YouTube
+yt-dlp – Fetches media from YouTube<br>
 (pip install yt-dlp)<br>
 # Conclusion
 Hope you find this smart virtual assistant useful for simplifying tasks and boosting efficiency. Feel free to explore, customize, and improve it to fit your needs. Contributions and feedback are always welcome!
